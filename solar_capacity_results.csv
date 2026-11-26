@@ -1,0 +1,5 @@
+computers,ac_load_kw,lecture_2h_kwh,sunny_pv_example_kw,sunny_pv_example_sufficient,inverter_planning_limit_sufficient,battery_20kwh_backup_hours
+50,7.27,14.54,8.914,True,True,2.23
+60,8.52,17.04,8.914,True,True,1.9
+63,8.895,17.79,8.914,True,True,1.82
+64,9.02,18.04,8.914,False,True,1.8
